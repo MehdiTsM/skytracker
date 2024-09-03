@@ -1,0 +1,52 @@
+{
+    "Home": "Accueil",
+    "Map": "Carte",
+    "Air Quality": "Qualité de l'air",
+    "Settings": "Paramètres",
+
+    "Theme and Display": "Thème et Affichage",
+    "Theme": "Thème",
+    "Light Mode": "Mode Clair",
+    "Dark Mode": "Mode Sombre",
+    "Language and Region": "Langue et Région",
+    "Language": "Langue",
+    "Region": "Région",
+    "English": "Anglais",
+    "French": "Français",
+    "Spanish": "Espagnol",
+    "US": "États-Unis",
+    "EU": "UE",
+    "Asia": "Asie",
+    "Other": "Autre",
+
+    "Air Quality Data": "Données sur la qualité de l'air",
+    "Location": "Emplacement",
+    "Timestamp": "Horodatage",
+    "AQI (Air Quality Index)": "AQI (Indice de Qualité de l'Air)",
+    "CO (Carbon Monoxide)": "CO (Monoxyde de Carbone)",
+    "NO2 (Nitrogen Dioxide)": "NO2 (Dioxyde d'Azote)",
+    "O3 (Ozone)": "O3 (Ozone)",
+    "SO2 (Sulfur Dioxide)": "SO2 (Dioxyde de Soufre)",
+    "PM2.5 (Particulate Matter < 2.5µm)": "PM2.5 (Particules < 2.5µm)",
+    "PM10 (Particulate Matter < 10µm)": "PM10 (Particules < 10µm)",
+    "Humidity": "Humidité",
+    "Temperature": "Température",
+    "No air quality or weather data available": "Aucune donnée sur la qualité de l'air ou la météo disponible",
+    "Error getting location": "Erreur lors de l'obtention de la localisation",
+    "Geolocation is not supported by this browser.": "La géolocalisation n'est pas supportée par ce navigateur.",
+    "Error fetching data": "Erreur lors de la récupération des données",
+
+    "CurrentLocationWeather": "Météo de Votre Localisation Actuelle",
+    "NoCurrentLocationWeather": "Aucune météo pour la localisation actuelle disponible",
+    "FewLocationsAroundWorld": "Quelques Lieux Autour du Monde",
+    "NoWeatherDataAvailable": "Aucune donnée météo disponible pour les grandes villes",
+    "Search": "Rechercher...",
+    "ErrorFetchingData": "Échec de la récupération des données météorologiques",
+
+    "searchPlaceholder": "Rechercher une ville...",
+    "loading": "Chargement...",
+    "errorFetching": "Erreur lors de la récupération des résultats de recherche:",
+
+    "details": "Détails"
+
+}
