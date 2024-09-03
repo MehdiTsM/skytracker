@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/skytracker/static/css/main.ccbbeb52.css",
-    "main.js": "/skytracker/static/js/main.0e44c6c7.js",
+    "main.js": "/skytracker/static/js/main.148ba83e.js",
     "static/js/453.d855a71b.chunk.js": "/skytracker/static/js/453.d855a71b.chunk.js",
     "static/media/SKY.png": "/skytracker/static/media/SKY.c6a2c54ece7af169ac9c.png",
     "index.html": "/skytracker/index.html",
     "main.ccbbeb52.css.map": "/skytracker/static/css/main.ccbbeb52.css.map",
-    "main.0e44c6c7.js.map": "/skytracker/static/js/main.0e44c6c7.js.map",
+    "main.148ba83e.js.map": "/skytracker/static/js/main.148ba83e.js.map",
     "453.d855a71b.chunk.js.map": "/skytracker/static/js/453.d855a71b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ccbbeb52.css",
-    "static/js/main.0e44c6c7.js"
+    "static/js/main.148ba83e.js"
   ]
 }
